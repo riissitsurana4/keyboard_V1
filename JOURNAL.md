@@ -87,4 +87,26 @@ https://lapse.hackclub.com/timelapse/ywpzmXBKPaUQ
 
 # July 16th, 2026: Macro-pad case, organising repo and writing basic code. 
 
+### CASE 2: Macro-pad
+Made the macro pad case similar to the keyboard case. Made the cutouts and stuff...
 
+Also made a covering for both of the cases and tried putting them both together in fusion trying to see if my design is perfect or not.
+
+While making the final part, i forgot to press resume on my lapse..... only a few minutes of work though.
+
+After making the cases, i started uploading all the files to this repo and tried to make the repo perfect.
+
+**Lapse links and Images**
+https://lapse.hackclub.com/timelapse/bDEIflPvGz7Y
+
+**Updated and final macro pad pcb**
+![alt text](images/Screenshot%202026-07-17%20025924.png)
+
+**Images of completed cases**
+![alt text](images/Screenshot%202026-07-17%20at%203.08.27 AM.png)
+
+![alt text](images/Screenshot%202026-07-17%20at%203.08.14 AM.png)
+
+![alt text](images/Screenshot%202026-07-17%20at%203.08.36 AM.png)
+
+![alt text](images/Screenshot%202026-07-17%20at%203.08.45 AM.png)
