@@ -85,7 +85,7 @@ https://lapse.hackclub.com/timelapse/ywpzmXBKPaUQ
 ![alt text](images/Screenshot%202026-07-16%20041725.png)
 
 
-# July 16th, 2026: Macro-pad case, organising repo and writing basic code. 
+# July 16th, 2026: Macro-pad case and organizing repo.
 
 ### CASE 2: Macro-pad
 Made the macro pad case similar to the keyboard case. Made the cutouts and stuff...

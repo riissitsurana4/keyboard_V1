@@ -18,13 +18,13 @@ The PCB was designed in **KiCad** and includes the following features:
 
 The LEDs are placed under each key for per key under glow.
 Using shift registers for columns.
-
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Friissitsurana4%2Fkeyboard_V1%2Ftree%2Fmain%2FPCB%2FKeyboard
 ### Macro Pad
 The PCB was designed in **KiCad** and includes the following features:
 * Cherry Mx Switches arranged in a matrix 
 * 2 rotary encoder
 * NRF52840 as the MCU
-
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Friissitsurana4%2Fkeyboard_V1%2Ftree%2Fmain%2FPCB%2FMacropad
 Using the NRF in both of them as it can be used wirelessly together
 
 Both of the pcbs have a battery connector.
