@@ -41,9 +41,12 @@ Both of the pcbs have a battery connector.
 
 ## Firmware
 
-I have made the firmware using **ZMK**. 
+I will write the firmware using **ZMK**. 
+I am still figuring this out.......
 
-I have only made basic firmware as it is very confusing and i do not have anything to test on.
+## Instructions
+If you want to create this keyboard for yourself, you can find the pcb and the case designs in this repo. The case is designed to be 3d printed. 
+NOTE: For the macropad PCB you would need to order a perforated side pcb so that the copper pads will flow over to the sides and make the pogo pin connection better. 
 
 
 ## BOM
@@ -54,7 +57,8 @@ I have only made basic firmware as it is very confusing and i do not have anythi
 | Shift Register        | 74HC595          | 2        | https://robu.in/product/1-month-warranty-1354/ |
 | Hex Schmitt Trigger   | 74HC14N          | 1        | https://robu.in/product/sn74hct14n-texas-instruments-logic-ic-inverter-hex-1-inputs-14-pins-dip-74hct14/ |
 | DC-DC Boost Converter | MT3608           | 1        | https://robu.in/product/mt3608-xian-aerosemi-tech-boost-type-adjustable-2a-2v24v-sot-23-6-dc-dc-converters-rohs/ |
-| Mini LEDs             | SK6812 MINI      |       |  |
+| Mini LEDs             | SK6812 MINI      |~90    |  |
 | LiPo Battery          | 2000 mAh         | 1        |  |
 | LiPo Battery          | 300 mAh          | 1        |  |
 | Battery Connector     | JST-PH 2.0 (2-pin) | 2     |  |
+| Switches              | Cherry-MX switches | ~100    |https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/  |
