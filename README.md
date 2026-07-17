@@ -40,12 +40,15 @@ Both of the pcbs have a battery connector.
 
 
 ## Firmware
-
-I will write the firmware using **ZMK**. 
-I am still figuring this out.......
+The firmware for this project is written in ZMK.
+It is located in a different repo 
+https://github.com/riissitsurana4/keyboard_zmk
+You can find the latest build at https://github.com/riissitsurana4/keyboard_zmk/actions/runs/29620562583
 
 ## Instructions
 If you want to create this keyboard for yourself, you can find the pcb and the case designs in this repo. The case is designed to be 3d printed. 
+Please refer to the above firmware section to download the latest version. You will need to flash both the mcu's with the latest build. 
+
 NOTE: For the macropad PCB you would need to order a perforated side pcb so that the copper pads will flow over to the sides and make the pogo pin connection better. 
 
 
