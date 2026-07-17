@@ -41,6 +41,7 @@ Both of the pcbs have a battery connector.
 
 ## Firmware
 The firmware for this project is written in ZMK.
+MAjor part of the firmware is AI written, mainly the keyboard part as i could not get the shift resistors part to work by myself.
 It is located in a different repo 
 https://github.com/riissitsurana4/keyboard_zmk
 You can find the latest build at https://github.com/riissitsurana4/keyboard_zmk/actions/runs/29620562583
